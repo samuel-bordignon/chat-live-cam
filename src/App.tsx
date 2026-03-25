@@ -8,7 +8,7 @@ function App() {
   return (
     <div>
       <p>Seu ID: <strong>{peerId ?? "Carregando..."}</strong></p>
-      <p>Status: {status}</p>
+      <p>Status: {status}</p> 
 
       <div>
         <input
