@@ -1,7 +1,7 @@
 function App() {
 
   return (
-    <div>ola</div>
+    <p className="bg-amber-70">ola</p>
      
   )
 }
